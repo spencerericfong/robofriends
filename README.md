@@ -1,3 +1,7 @@
+This is my first time using React.js to create an fully functional and responsive web application. I will not be making any further changes or additions to this project, as it is just something I built to learn how to use React and other technologies common in web development.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -39,9 +43,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+To learn React, check out the [React documentation](https://reactjs.org/)
 
 ### Code Splitting
 
